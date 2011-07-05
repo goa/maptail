@@ -1,6 +1,6 @@
 { "name": "maptail"
 , "description": "maptail geoips your tail -f to a map"
-, "version": "0.0.5"
+, "version": "0.0.6"
 , "author": "George Stagas <gstagas@gmail.com> (http://stagas.com/)"
 , "repository":
   { "type": "git"
